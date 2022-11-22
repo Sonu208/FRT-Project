@@ -15,6 +15,7 @@ Azure Bot Service :
 
 <img width="1440" alt="Screenshot 2022-11-23 at 1 53 09 AM" src="https://user-images.githubusercontent.com/99793746/203416974-6abf82e4-fb29-4a96-908c-611cea15a827.png">
 
+<img width="1432" alt="Screenshot 2022-11-23 at 2 14 12 AM" src="https://user-images.githubusercontent.com/99793746/203418296-dce06bad-6a65-44ef-91e9-8405a06b2fa8.png">
 
 Azure App Service :
 
@@ -29,6 +30,9 @@ Language Understanding :
 Website Screenshots:
 ![image](https://user-images.githubusercontent.com/99793746/203418005-263879e8-e691-4efa-91de-03b56666177c.png)
 
+![image](https://user-images.githubusercontent.com/99793746/203418118-a7c0eed1-df8f-4381-aacf-5ebb11187957.png)
+
+![image](https://user-images.githubusercontent.com/99793746/203418226-832ecda5-eb52-407c-a7f5-65886a1bf654.png)
 
 
 
