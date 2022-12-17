@@ -1,24 +1,29 @@
-# FRT project by Sonu Pradhan (Azure Services used : Azure Bot , Static Web apps)
+# FRT project by Sonu Pradhan (Azure Services used : Azure HealthBot , Static Web apps)
 
-azure link https://purple-bush-00763c210.2.azurestaticapps.net/index.html
+azure link https://happy-desert-05e93f510.2.azurestaticapps.net/
 
 All Azure Servies used :
+<img width="1436" alt="Screenshot 2022-12-15 at 4 50 38 PM" src="https://user-images.githubusercontent.com/99793746/207847466-83b66dee-30ad-40c5-8eb8-a256dedc1ffe.png">
 
-<img width="1440" alt="Screenshot 2022-11-23 at 1 51 48 AM" src="https://user-images.githubusercontent.com/99793746/203416854-09b29260-29f0-4331-8c0e-202ddd8aacf5.png">
+
 
 Azure Static Web Apps :
 
 <img width="1439" alt="Screenshot 2022-11-03 at 8 44 27 PM" src="https://user-images.githubusercontent.com/99793746/199760355-1f8d5519-8b8f-4a72-8932-19495d956a00.png">
 
-Azure Bot Service :
+Azure HealthBot Service :
 
-<img width="1440" alt="Screenshot 2022-11-23 at 1 53 09 AM" src="https://user-images.githubusercontent.com/99793746/203416974-6abf82e4-fb29-4a96-908c-611cea15a827.png">
+<img width="1361" alt="Screenshot 2022-12-15 at 4 59 05 PM" src="https://user-images.githubusercontent.com/99793746/207848352-dae87448-3d9a-40d8-b3db-11dd21e6bd54.png">
 
-<img width="1432" alt="Screenshot 2022-11-23 at 2 14 12 AM" src="https://user-images.githubusercontent.com/99793746/203418296-dce06bad-6a65-44ef-91e9-8405a06b2fa8.png">
+
+<img width="1424" alt="Screenshot 2022-12-15 at 4 51 23 PM" src="https://user-images.githubusercontent.com/99793746/207847532-fd066556-0888-45e2-8dc4-5a1738c83e72.png">
+
+<img width="1436" alt="Screenshot 2022-12-15 at 4 52 01 PM" src="https://user-images.githubusercontent.com/99793746/207847552-ba025160-2515-4a40-a1f4-e4acc38faa65.png">
 
 Azure App Service :
 
-<img width="1440" alt="Screenshot 2022-11-23 at 2 08 39 AM" src="https://user-images.githubusercontent.com/99793746/203417069-8df19445-918d-4fc6-a1ed-3d966a405a73.png">
+
+<img width="1378" alt="Screenshot 2022-12-15 at 4 53 14 PM" src="https://user-images.githubusercontent.com/99793746/207847627-d20c6381-61b2-4f2e-9564-af1b91af3189.png">
 
 
 Language Understanding :
