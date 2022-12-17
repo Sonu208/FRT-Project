@@ -3,7 +3,8 @@
 azure link https://happy-desert-05e93f510.2.azurestaticapps.net/
 
 All Azure Servies used :
-<img width="1436" alt="Screenshot 2022-12-15 at 4 50 38 PM" src="https://user-images.githubusercontent.com/99793746/207847466-83b66dee-30ad-40c5-8eb8-a256dedc1ffe.png">
+
+<img width="1431" alt="Screenshot 2022-12-18 at 1 17 15 AM" src="https://user-images.githubusercontent.com/99793746/208263703-044f7648-26ec-4f4d-b17f-339dab98f099.png">
 
 
 
@@ -12,23 +13,17 @@ Azure Static Web Apps :
 <img width="1439" alt="Screenshot 2022-11-03 at 8 44 27 PM" src="https://user-images.githubusercontent.com/99793746/199760355-1f8d5519-8b8f-4a72-8932-19495d956a00.png">
 
 Azure HealthBot Service :
+<img width="1435" alt="Screenshot 2022-12-18 at 1 18 48 AM" src="https://user-images.githubusercontent.com/99793746/208263734-6c7e4af6-82e9-459c-8afe-a84116a2bd83.png">
 
-<img width="1361" alt="Screenshot 2022-12-15 at 4 59 05 PM" src="https://user-images.githubusercontent.com/99793746/207848352-dae87448-3d9a-40d8-b3db-11dd21e6bd54.png">
 
-
-<img width="1424" alt="Screenshot 2022-12-15 at 4 51 23 PM" src="https://user-images.githubusercontent.com/99793746/207847532-fd066556-0888-45e2-8dc4-5a1738c83e72.png">
-
-<img width="1436" alt="Screenshot 2022-12-15 at 4 52 01 PM" src="https://user-images.githubusercontent.com/99793746/207847552-ba025160-2515-4a40-a1f4-e4acc38faa65.png">
 
 Azure App Service :
 
+<img width="1439" alt="Screenshot 2022-12-18 at 1 20 04 AM" src="https://user-images.githubusercontent.com/99793746/208263761-3cae9488-bdb6-46e3-bd6d-50265a771d87.png">
 
-<img width="1378" alt="Screenshot 2022-12-15 at 4 53 14 PM" src="https://user-images.githubusercontent.com/99793746/207847627-d20c6381-61b2-4f2e-9564-af1b91af3189.png">
+<img width="1440" alt="Screenshot 2022-12-18 at 1 20 26 AM" src="https://user-images.githubusercontent.com/99793746/208263770-d74e3d81-0587-4ea9-a661-107026ef1166.png">
 
 
-Language Understanding :
-
-<img width="1440" alt="Screenshot 2022-11-23 at 1 55 47 AM" src="https://user-images.githubusercontent.com/99793746/203417148-ec1a287a-abe2-482b-8ac1-ba96c9f7e581.png">
 
 
 Website Screenshots:
