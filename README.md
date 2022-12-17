@@ -1,6 +1,6 @@
 # FRT project by Sonu Pradhan (Azure Services used : Azure HealthBot , Static Web apps)
 
-azure link https://purple-bush-00763c210.2.azurestaticapps.net/index.html
+azure link https://happy-desert-05e93f510.2.azurestaticapps.net/
 
 All Azure Servies used :
 <img width="1436" alt="Screenshot 2022-12-15 at 4 50 38 PM" src="https://user-images.githubusercontent.com/99793746/207847466-83b66dee-30ad-40c5-8eb8-a256dedc1ffe.png">
