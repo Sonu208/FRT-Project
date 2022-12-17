@@ -10,9 +10,11 @@ All Azure Servies used :
 
 Azure Static Web Apps :
 
-<img width="1439" alt="Screenshot 2022-11-03 at 8 44 27 PM" src="https://user-images.githubusercontent.com/99793746/199760355-1f8d5519-8b8f-4a72-8932-19495d956a00.png">
+<img width="1440" alt="Screenshot 2022-12-18 at 1 22 08 AM" src="https://user-images.githubusercontent.com/99793746/208263826-ea1e866f-6e93-4583-8837-84a08e2281df.png">
+
 
 Azure HealthBot Service :
+
 <img width="1435" alt="Screenshot 2022-12-18 at 1 18 48 AM" src="https://user-images.githubusercontent.com/99793746/208263734-6c7e4af6-82e9-459c-8afe-a84116a2bd83.png">
 
 
