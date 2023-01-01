@@ -1,30 +1,32 @@
 # FRT project by Sonu Pradhan (Azure Services used : Azure HealthBot , Static Web apps)
 
-azure link https://happy-desert-05e93f510.2.azurestaticapps.net/
+azure link : https://black-desert-00ac86510.2.azurestaticapps.net
 
 All Azure Servies used :
 
-<img width="1431" alt="Screenshot 2022-12-18 at 1 17 15 AM" src="https://user-images.githubusercontent.com/99793746/208263703-044f7648-26ec-4f4d-b17f-339dab98f099.png">
 
-
+<img width="1425" alt="Screenshot 2022-12-22 at 9 00 23 PM" src="https://user-images.githubusercontent.com/99793746/209169897-6ca6148c-acf9-465e-84d9-6401924e06e7.png">
 
 Azure Static Web Apps :
 
-<img width="1440" alt="Screenshot 2022-12-18 at 1 22 08 AM" src="https://user-images.githubusercontent.com/99793746/208263826-ea1e866f-6e93-4583-8837-84a08e2281df.png">
+<img width="1435" alt="Screenshot 2022-12-22 at 9 00 52 PM" src="https://user-images.githubusercontent.com/99793746/209170108-ad8521c3-f2cd-4136-b242-a7f98f3f78f3.png">
+
 
 
 Azure HealthBot Service :
 
-<img width="1435" alt="Screenshot 2022-12-18 at 1 18 48 AM" src="https://user-images.githubusercontent.com/99793746/208263734-6c7e4af6-82e9-459c-8afe-a84116a2bd83.png">
+<img width="1422" alt="Screenshot 2022-12-22 at 9 07 46 PM" src="https://user-images.githubusercontent.com/99793746/209170139-e7287605-6251-4527-8915-3556c123f75c.png">
+
+<img width="1413" alt="Screenshot 2022-12-22 at 9 13 08 PM" src="https://user-images.githubusercontent.com/99793746/209170567-fc0f4c11-e304-476a-9375-9fa14744d1d9.png">
 
 
 
 Azure App Service :
 
-<img width="1439" alt="Screenshot 2022-12-18 at 1 20 04 AM" src="https://user-images.githubusercontent.com/99793746/208263761-3cae9488-bdb6-46e3-bd6d-50265a771d87.png">
+<img width="1424" alt="Screenshot 2022-12-22 at 9 08 16 PM" src="https://user-images.githubusercontent.com/99793746/209170176-9c9b83c8-6090-410b-9dfd-7195b805efc5.png">
 
-<img width="1440" alt="Screenshot 2022-12-18 at 1 20 26 AM" src="https://user-images.githubusercontent.com/99793746/208263770-d74e3d81-0587-4ea9-a661-107026ef1166.png">
 
+<img width="1419" alt="Screenshot 2022-12-22 at 9 08 50 PM" src="https://user-images.githubusercontent.com/99793746/209170187-7017a943-9072-433a-ab69-6c7b61ce88f7.png">
 
 
 
