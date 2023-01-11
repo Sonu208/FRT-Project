@@ -1,5 +1,7 @@
 # FRT project by Sonu Pradhan (Azure Services used : Azure HealthBot , Static Web apps)
 
+Video Demo : https://www.youtube.com/watch?v=7jgEZHYB6Mk&t=1s
+
 azure link : https://black-desert-00ac86510.2.azurestaticapps.net
 
 All Azure Servies used :
